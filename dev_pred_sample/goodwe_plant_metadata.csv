@@ -1,0 +1,2 @@
+plant_id,latitude,longitude,kw_peak,has_battery,battery_capacity,installation_date,has_pv
+gw-0001,48.804640359393204,11.377483228751014,5.74,True,7.7,2023-04-01,True
